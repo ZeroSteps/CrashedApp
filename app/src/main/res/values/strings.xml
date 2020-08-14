@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="input_name_label">Введите ник:</string>
+    <string name="empty_name_message">Вы не можете зайти с пустым ником</string>
+    <string name="input_text">Введите текст</string>
+    <string name="btn_join_label">Войти</string>
+    <string name="hello_with_name_label">Добро пожаловать %1$s, задайте свой вопрос.</string>
+</resources>
